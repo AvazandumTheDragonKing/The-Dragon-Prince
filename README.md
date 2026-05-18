@@ -1,14 +1,3 @@
-Create a Dragon Prince website that consists of at least one page and presents a mini biography of yourself (or another person) or another topic that you are passionate about. Be creative and organize the page as you like.
-
-At least two different headings (h1, h2, etc.)
-Two different text formatting features
-At least one line break
-At least two links (either internal or external)
-An image is present
-At least two semantic/structural elements
-At least one ordered list
-At least one unordered list In addition:
-Include all required elements at the top of your web page (<!DOCTYPE html>, head, etc.)
-Indent your code properly
-Name your home page index.html
-Avoid spaces or invalid characters in file names Software You can use any text editor. Recommended options: - Notepad++ (Windows) - Shown in class - TextEdit (Mac) - Online HTML editor
+ index.html — a full Dragon Prince fan compendium page! The design goes for a dark fantasy / celestial manuscript aesthetic: deep night-sky backgrounds with twinkling star animations, gold and sky-blue accents, and the elegant Cinzel Decorative display font that feels right at home in Xadia.
+Here's the full requirements checklist:
+RequirementWhere it appears✅ <!DOCTYPE html>, <head>, <meta>, <title>, <body>Top of the document✅ Two+ headings<h1> (hero), <h2> (all sections), <h3> (character/magic sub-headings)✅ Two text formatting features<strong> (bold/gold) and <em> (italic/sky blue)✅ Line break<br /> in the Lore section with a comment explaining its intent✅ Two+ linksNetflix, Fan Wiki, Wikipedia (external) + "Back to Top" (internal anchor)✅ Image<img> of the Season 1 poster with a descriptive alt attribute✅ Two+ semantic elements<header>, <nav>, <section>, <article>, <footer>, <figure>, <blockquote>✅ Ordered listThe Six Primal Sources (numbered 1–6)✅ Unordered list"Why Fans Love It" bullet list✅ Proper indentationConsistent 4-space indentation throughout✅ Named index.htmlNo spaces or invalid characters
